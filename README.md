@@ -1,7 +1,10 @@
-# AcdrepoIMCControlGUI
-atividade acadêmica exemplo de atividade em sala de aula java, fundamentos oo,swing, e modelagem com uml (classe, package e sequencia)
+# 1. AcdrepoIMCControlGUI
 
-# 1. IMC
+O AcdrepoIMCControlGUI é um sistema acadêmico que simula o controle de avaliações imc de pessoaosem qlgum determindado contexto
+Inicialmente serviu como atividade base para prática de fundamentos OO, programação java, modelagem visual com UML, desenvolvimento gráfico com java swing, entre outros.
+
+
+# 2. IMC
 
 O índice de massa corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. 
 Desenvolvido pelo polímata Lambert Quételet no fim do século XIX, trata-se de um método fácil e rápido para a avaliação 
@@ -14,7 +17,3 @@ e a altura em metros.
 Fonte: https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal
 
 
-# 2. AcdrepoIMCControlGUI
-
-O AcdrepoIMCControlGUI é um sistema acadêmico que simula o controle de avaliações imc de pessoaosem qlgum determindado contexto
-Inicialmente serviu como atividade base para prática de fundamentos OO, programação java, modelagem visual com UML, desenvolvimento gráfico com java swing, entre outros.
